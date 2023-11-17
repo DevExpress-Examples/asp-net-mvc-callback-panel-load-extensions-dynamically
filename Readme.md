@@ -14,8 +14,8 @@ This example demonstrates how to use the [CallbackPanel](https://docs.devexpress
 ## Files to Review
 
 * [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
-* [CallbackPartial.cshtml](./CS/Views/Home/CallbackPartial.cshtml)
-* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+* [CallbackPartial.cshtml](./CS/Views/Home/CallbackPartial.cshtml) (VB: [CallbackPartial.vbhtml](./VB/Views/Home/CallbackPartial.vbhtml))
+* [Index.cshtml](./CS/Views/Home/Index.cshtml) (VB: [Index.vbhtml](./VB/Views/Home/Index.vbhtml))
 
 ## More Examples
 
