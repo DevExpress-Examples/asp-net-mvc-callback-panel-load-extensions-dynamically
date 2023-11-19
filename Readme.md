@@ -6,7 +6,7 @@
 
 # Callback Panel for APS.NET MVC - How to load MVC extensions dynamically
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2927/)**
+**[[Run Online]](https://codecentral.devexpress.com/128552655/)**
 <!-- run online end -->
 
 This example demonstrates how to use the [CallbackPanel](https://docs.devexpress.com/AspNetMvc/8975/components/multi-use-site-extensions/callback-panel) extension to load page content dynamically, including extensions that use callbacks.
